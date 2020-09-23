@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, this is Yifan Wu👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wuyifan18&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wuyifan18/wuyifan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
